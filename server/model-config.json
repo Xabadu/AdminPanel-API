@@ -31,5 +31,15 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "newModel": {
+    "dataSource": "db",
+    "public": true
+  },
+  "TVentaDiaria": {
+    "dataSource": "vendobots_temp",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
   }
 }
