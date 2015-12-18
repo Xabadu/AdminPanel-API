@@ -6,7 +6,7 @@
     "validateUpsert": true
   },
   "mysql": {
-    "schema": "vendobots_db",
+    "schema": "db",
     "table": "t_venta_diaria"
   },
   "properties": {

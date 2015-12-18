@@ -34,7 +34,7 @@
     "public": false
   },
   "TVentaDiaria": {
-    "dataSource": "vendobots_temp",
+    "dataSource": "db",
     "public": true,
     "$promise": {},
     "$resolved": true

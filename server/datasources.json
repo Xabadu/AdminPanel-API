@@ -2,14 +2,5 @@
   "db": {
     "name": "db",
     "connector": "memory"
-  },
-  "vendobots_temp": {
-    "host": "mysql.vendobots.com",
-    "port": 3306,
-    "database": "vendobots_db",
-    "username": "vendobots",
-    "password": "vendo#.cl",
-    "name": "vendobots_temp",
-    "connector": "mysql"
   }
 }
